@@ -1,0 +1,1 @@
+page.visual_effect :puff, "community_user_table_row_user_id_#{@user.id}"

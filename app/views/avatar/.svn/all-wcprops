@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/rails_space/!svn/ver/4/trunk/app/views/avatar
+END
+delete.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/rails_space/!svn/ver/4/trunk/app/views/avatar/delete.html.erb
+END
+_sidebar_box.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rails_space/!svn/ver/4/trunk/app/views/avatar/_sidebar_box.rhtml
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rails_space/!svn/ver/4/trunk/app/views/avatar/index.html.erb
+END
+upload.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/rails_space/!svn/ver/4/trunk/app/views/avatar/upload.html.erb
+END

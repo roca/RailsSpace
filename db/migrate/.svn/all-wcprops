@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/rails_space/!svn/ver/22/trunk/db/migrate
+END
+20081212011639_create_posts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081212011639_create_posts.rb
+END
+20081230212519_create_events.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/rails_space/!svn/ver/22/trunk/db/migrate/20081230212519_create_events.rb
+END
+002_add_user_time_stamps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/002_add_user_time_stamps.rb
+END
+20081211115543_create_blogs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081211115543_create_blogs.rb
+END
+20081213103108_create_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081213103108_create_comments.rb
+END
+20081020081334_add_authorization_token.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081020081334_add_authorization_token.rb
+END
+003_create_sessions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/003_create_sessions.rb
+END
+001_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/001_create_users.rb
+END
+20081113105110_create_faqs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081113105110_create_faqs.rb
+END
+20081206101348_create_friendships.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081206101348_create_friendships.rb
+END
+20081108102923_create_specs.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/rails_space/!svn/ver/4/trunk/db/migrate/20081108102923_create_specs.rb
+END

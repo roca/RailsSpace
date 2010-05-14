@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/rails_space/!svn/ver/15/trunk/test/functional
+END
+users_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/rails_space/!svn/ver/15/trunk/test/functional/users_controller_test.rb
+END
+site_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/rails_space/!svn/ver/4/trunk/test/functional/site_controller_test.rb
+END
+faq_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rails_space/!svn/ver/4/trunk/test/functional/faq_controller_test.rb
+END
+old user_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/rails_space/!svn/ver/4/trunk/test/functional/old%20user_controller_test.rb
+END
+comments_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/rails_space/!svn/ver/4/trunk/test/functional/comments_controller_test.rb
+END
+posts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rails_space/!svn/ver/4/trunk/test/functional/posts_controller_test.rb
+END
+blogs_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rails_space/!svn/ver/4/trunk/test/functional/blogs_controller_test.rb
+END
+email_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rails_space/!svn/ver/4/trunk/test/functional/email_controller_test.rb
+END
+user_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/rails_space/!svn/ver/4/trunk/test/functional/user_controller_test.rb
+END
+spec_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/rails_space/!svn/ver/4/trunk/test/functional/spec_controller_test.rb
+END
+friendship_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/rails_space/!svn/ver/14/trunk/test/functional/friendship_controller_test.rb
+END
+avatar_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/rails_space/!svn/ver/4/trunk/test/functional/avatar_controller_test.rb
+END
+profile_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rails_space/!svn/ver/4/trunk/test/functional/profile_controller_test.rb
+END
+community_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/rails_space/!svn/ver/4/trunk/test/functional/community_controller_test.rb
+END

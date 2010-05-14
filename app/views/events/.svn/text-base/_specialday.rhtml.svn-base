@@ -1,0 +1,22 @@
+<%= @specialday_day  %>
+<div id="specialday_<%= @specialday_day  %>"  style="font-size:xx-small; display:none; width:160px; height:80px; background:#ccc;">
+  <table border="1">
+    <tr><th>Event</th><th>Member</th></tr>
+      <%@days_events.each do |e| %>
+            <tr> <td><%= e.title %> </td><td><%= link_to e.user.screen_name, event_path(e) %></td></tr>
+      <%end%>
+    </table>
+</div>
+<br/>
+<font size="1">
+    <%= link_to_remote "+", 
+      :url => showspecialday_events_path(:id => @specialday_day ), 
+      :method => :get %> 
+  
+    <%= link_to_remote "x", 
+      :url => hidespecialday_events_path(:id => @specialday_day ), 
+      :method => :get  %> 
+</font>
+
+
+

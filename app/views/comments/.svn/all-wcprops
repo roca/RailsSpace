@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments/new.html.erb
+END
+_new.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments/_new.rhtml
+END
+new.js.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments/new.js.rjs
+END
+destroy.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments/destroy.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments/create.rjs
+END
+_comment.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rails_space/!svn/ver/4/trunk/app/views/comments/_comment.rhtml
+END

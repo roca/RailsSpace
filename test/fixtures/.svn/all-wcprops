@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/rails_space/!svn/ver/13/trunk/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rails_space/!svn/ver/13/trunk/test/fixtures/users.yml
+END
+geo_data.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/geo_data.yml
+END
+specs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rails_space/!svn/ver/13/trunk/test/fixtures/specs.yml
+END
+friendships.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/friendships.yml
+END
+faqs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/faqs.yml
+END
+blogs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/blogs.yml
+END
+rails.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/rails.png
+END
+posts.yml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/posts.yml
+END
+comments.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rails_space/!svn/ver/4/trunk/test/fixtures/comments.yml
+END

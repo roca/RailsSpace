@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/LICENSE
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/install.rb
+END
+rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/rakefile
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/init.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/README
+END

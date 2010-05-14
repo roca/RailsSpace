@@ -1,0 +1,28 @@
+<div class="event">
+  <div class="event_title">
+    
+    <% if logged_in? and event.authorized?(User.find(session[:user_id])) %>
+        <%= sanitize event.title  %> 
+    <% else %>
+       <%= sanitize event.title  %> [created by <%= link_to event.user.name, profile_for(event.user) %>]
+   <%  end %>
+
+ <% if logged_in? and event.authorized?(User.find(session[:user_id])) %>
+    <% unless hide_edit_links? %>
+      <span style="float:right">
+      <%= link_to_unless_current 'Show', event_path(event) %> |
+      <%= link_to_unless_current 'Edit', edit_event_path(event) %> |
+      <%= link_to 'Destroy', event_path(event), 
+                  :confirm => 'Are you sure?', :method => :delete %> 
+      </span>
+    <% end %>
+<% end %>
+  </div>
+  <div class="event_description"><%= sanitize event.description %></div>
+  <div class="event_date">
+    Event date: <%= event.event_date.strftime('%A, %B %d, %Y @%H:%M')%> 
+  </div>
+  
+  
+
+</div>

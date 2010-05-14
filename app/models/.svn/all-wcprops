@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/rails_space/!svn/ver/24/trunk/app/models
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/rails_space/!svn/ver/24/trunk/app/models/user.rb
+END
+spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/rails_space/!svn/ver/4/trunk/app/models/spec.rb
+END
+event.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/rails_space/!svn/ver/24/trunk/app/models/event.rb
+END
+friendship.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/rails_space/!svn/ver/4/trunk/app/models/friendship.rb
+END
+avatar.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/rails_space/!svn/ver/4/trunk/app/models/avatar.rb
+END
+user_mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/rails_space/!svn/ver/4/trunk/app/models/user_mailer.rb
+END
+message.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rails_space/!svn/ver/4/trunk/app/models/message.rb
+END
+faq.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/rails_space/!svn/ver/4/trunk/app/models/faq.rb
+END
+blog.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/rails_space/!svn/ver/24/trunk/app/models/blog.rb
+END
+geo_datum.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/rails_space/!svn/ver/4/trunk/app/models/geo_datum.rb
+END
+post.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/rails_space/!svn/ver/4/trunk/app/models/post.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rails_space/!svn/ver/4/trunk/app/models/comment.rb
+END

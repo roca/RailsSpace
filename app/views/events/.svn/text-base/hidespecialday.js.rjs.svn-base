@@ -1,0 +1,1 @@
+page.visual_effect :squish , "specialday_#{@specialday_day}"

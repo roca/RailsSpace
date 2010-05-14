@@ -1,0 +1,12 @@
+<h2><%= link_to 'Your Events', events_path %>: Edit Event</h2>
+
+<%= render :partial => "event" %>
+
+<% form_for(:event, :url => event_path, 
+                   :html => { :method => :put }) do |form| %>
+<fieldset>
+  <legend>Edit Event</legend> 
+  <%= render :partial => "form", :locals => { :form => form } %>
+  <%= submit_tag "Update", :class => "submit" %> 
+</fieldset>
+<% end %>

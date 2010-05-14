@@ -1,0 +1,77 @@
+10
+
+dir
+36
+http://romelcampbell.svnrepository.com/svn/rails_space/trunk/test
+http://romelcampbell.svnrepository.com/svn/rails_space
+
+
+
+2008-12-29T15:02:32.451410Z
+15
+roca
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+103e0a96-4e85-4be7-90a6-08d56fba1ce1
+
+fixtures
+dir
+
+functional
+dir
+
+integration
+dir
+
+mocks
+dir
+
+test_helper.rb
+file
+
+
+
+
+2010-05-14T15:05:11.000000Z
+c5bbee6348783d54375f9f65e2a56420
+2008-12-25T14:19:45.071949Z
+13
+roca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5677
+
+unit
+dir
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rails_space/!svn/ver/4/trunk/app/views/user_mailer
+END
+reminder.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/rails_space/!svn/ver/4/trunk/app/views/user_mailer/reminder.rhtml
+END
+message.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rails_space/!svn/ver/4/trunk/app/views/user_mailer/message.rhtml
+END
+friend_request.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rails_space/!svn/ver/4/trunk/app/views/user_mailer/friend_request.rhtml
+END

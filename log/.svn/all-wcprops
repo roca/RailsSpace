@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/rails_space/!svn/ver/19/trunk/log
+END
+development.log
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/rails_space/!svn/ver/19/trunk/log/development.log
+END
+ferret_index.log
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rails_space/!svn/ver/19/trunk/log/ferret_index.log
+END
+fastcgi.crash.log
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rails_space/!svn/ver/19/trunk/log/fastcgi.crash.log
+END
+test.log
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/rails_space/!svn/ver/4/trunk/log/test.log
+END
+server.log
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/rails_space/!svn/ver/4/trunk/log/server.log
+END
+production.log
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/rails_space/!svn/ver/4/trunk/log/production.log
+END

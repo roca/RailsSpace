@@ -1,0 +1,11 @@
+<h1>Welcome to RailsSpace!</h1>
+<p>This is going to be the best site ever!</p>
+
+<%=calendar(:year => DateTime.now.year, :month => DateTime.now.month )%>
+
+
+
+<%= calendar_date_select_tag 'Event date', DateTime.now %>
+
+
+

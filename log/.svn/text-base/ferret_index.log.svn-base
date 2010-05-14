@@ -1,0 +1,240 @@
+# Logfile created on Sun Nov 30 12:28:16 -0500 2008 by /
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+rebuild index: [Spec(id: integer, user_id: integer, first_name: string, last_name: string, gender: string, birthdate: date, occupation: string, city: string, state: string, zip_code: string)]
+reindexing model Spec
+reindex model Spec : 523354373.66% complete : -2114404.33 secs to finish
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+rebuild index: [User(id: integer, screen_name: string, email: string, password: string, created_at: datetime, updated_at: datetime, authorization_token: string)]
+reindexing model User
+reindex model User : 583.98% complete : 0.00 secs to finish
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:campbell email:campbell
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: last_name:campbell gender:campbell zip_code:campbell user_id:campbell birthdate:campbell state:campbell first_name:campbell occupation:campbell city:campbell
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+rebuild index: [Faq(id: integer, user_id: integer, bio: text, skillz: text, schools: text, companies: text, music: text, movies: text, television: text, magazines: text, books: text)]
+reindexing model Faq
+reindex model Faq : 523354373.66% complete : -2608787.39 secs to finish
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: music:campbell companies:campbell user_id:campbell television:campbell skillz:campbell movies:campbell schools:campbell bio:campbell magazines:campbell books:campbell
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: birthdate:romcam zip_code:romcam user_id:romcam first_name:romcam state:romcam last_name:romcam city:romcam occupation:romcam gender:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: television:romcam skillz:romcam user_id:romcam movies:romcam schools:romcam bio:romcam magazines:romcam books:romcam music:romcam companies:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: birthdate:romcam zip_code:romcam user_id:romcam first_name:romcam state:romcam last_name:romcam city:romcam occupation:romcam gender:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: television:romcam skillz:romcam user_id:romcam movies:romcam schools:romcam bio:romcam magazines:romcam books:romcam music:romcam companies:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:campbell email:campbell
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: gender:campbell user_id:campbell birthdate:campbell state:campbell last_name:campbell first_name:campbell zip_code:campbell occupation:campbell city:campbell
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: companies:campbell television:campbell user_id:campbell skillz:campbell movies:campbell schools:campbell bio:campbell magazines:campbell books:campbell music:campbell
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+rebuild index: [User(id: integer, screen_name: string, email: string, password: string, created_at: datetime, updated_at: datetime, authorization_token: string)]
+reindexing model User
+reindex model User : 581.64% complete : 0.00 secs to finish
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: city:romcam occupation:romcam gender:romcam state:romcam last_name:romcam user_id:romcam birthdate:romcam zip_code:romcam first_name:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: magazines:romcam books:romcam music:romcam companies:romcam user_id:romcam television:romcam skillz:romcam movies:romcam schools:romcam bio:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romel email:romel
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: first_name:romel city:romel occupation:romel state:romel last_name:romel user_id:romel gender:romel birthdate:romel zip_code:romel
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: schools:romel bio:romel magazines:romel books:romel music:romel user_id:romel companies:romel television:romel skillz:romel movies:romel
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romel email:romel
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: first_name:romel city:romel occupation:romel state:romel last_name:romel user_id:romel gender:romel birthdate:romel zip_code:romel
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: schools:romel bio:romel magazines:romel books:romel music:romel user_id:romel companies:romel television:romel skillz:romel movies:romel
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: city:romcam occupation:romcam state:romcam last_name:romcam gender:romcam user_id:romcam birthdate:romcam zip_code:romcam first_name:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: bio:romcam magazines:romcam books:romcam music:romcam user_id:romcam companies:romcam television:romcam skillz:romcam movies:romcam schools:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: city:romcam occupation:romcam state:romcam last_name:romcam gender:romcam user_id:romcam birthdate:romcam zip_code:romcam first_name:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: bio:romcam magazines:romcam books:romcam music:romcam user_id:romcam companies:romcam television:romcam skillz:romcam movies:romcam schools:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: city:romcam occupation:romcam state:romcam last_name:romcam gender:romcam user_id:romcam birthdate:romcam zip_code:romcam first_name:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: bio:romcam magazines:romcam books:romcam music:romcam user_id:romcam companies:romcam television:romcam skillz:romcam movies:romcam schools:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: city:romcam occupation:romcam state:romcam last_name:romcam gender:romcam user_id:romcam birthdate:romcam zip_code:romcam first_name:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: bio:romcam magazines:romcam books:romcam music:romcam user_id:romcam companies:romcam television:romcam skillz:romcam movies:romcam schools:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: birthdate:romcam zip_code:romcam first_name:romcam city:romcam state:romcam last_name:romcam user_id:romcam occupation:romcam gender:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: television:romcam skillz:romcam movies:romcam schools:romcam bio:romcam magazines:romcam books:romcam user_id:romcam music:romcam companies:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: birthdate:romcam zip_code:romcam first_name:romcam city:romcam state:romcam last_name:romcam user_id:romcam occupation:romcam gender:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: television:romcam skillz:romcam movies:romcam schools:romcam bio:romcam magazines:romcam books:romcam user_id:romcam music:romcam companies:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: first_name:romcam city:romcam occupation:romcam gender:romcam state:romcam last_name:romcam user_id:romcam birthdate:romcam zip_code:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: movies:romcam schools:romcam bio:romcam magazines:romcam books:romcam music:romcam user_id:romcam companies:romcam television:romcam skillz:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+query: screen_name:romcam email:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+query: first_name:romcam occupation:romcam city:romcam state:romcam last_name:romcam user_id:romcam gender:romcam zip_code:romcam birthdate:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+query: television:romcam skillz:romcam movies:romcam schools:romcam bio:romcam magazines:romcam books:romcam user_id:romcam music:romcam companies:romcam
+stored_fields: 
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/spec
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/faq
+LocalIndex: ensure_index_exists at /home/roca/rails_space/index/development/user

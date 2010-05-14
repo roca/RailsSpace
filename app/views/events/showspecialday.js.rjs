@@ -1,0 +1,1 @@
+page.visual_effect :grow, "specialday_#{@specialday_day}"

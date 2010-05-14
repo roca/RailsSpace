@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/rails_space/!svn/ver/4/trunk/lib/tasks/sample_data
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rails_space/!svn/ver/4/trunk/lib/tasks/sample_data/users.yml
+END
+specs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/rails_space/!svn/ver/4/trunk/lib/tasks/sample_data/specs.yml
+END
+faqs.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rails_space/!svn/ver/4/trunk/lib/tasks/sample_data/faqs.yml
+END

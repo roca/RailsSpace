@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/rails_space/!svn/ver/23/trunk/db
+END
+20081128113647_create_geo_data.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/rails_space/!svn/ver/4/trunk/db/20081128113647_create_geo_data.rb
+END
+geo_data.csv
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/rails_space/!svn/ver/4/trunk/db/geo_data.csv
+END
+development.sqlite3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/rails_space/!svn/ver/4/trunk/db/development.sqlite3
+END
+schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/rails_space/!svn/ver/23/trunk/db/schema.rb
+END

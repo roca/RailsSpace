@@ -1,0 +1,51 @@
+<h2>Your Events</h2>
+
+
+<% if @month <= 0 %> 
+<% @month = 12 %> 
+<% @year = @year - 1 %> 
+<% elsif @month >12 %> 
+<% @month = 1 %> 
+<% @year = @year+1 %> 
+<%end %> 
+<div > 
+
+<%= 
+calendar({:year =>@year, :month => @month,:abbrev => (0..2),:previous_month_text =>link_to(image_tag("resultset_previous.png"),:action=>'index',:month=>@month-1,:year=>@year,:value=>'s'), :next_month_text =>link_to(image_tag("resultset_next.png"),:action=>'index',:month=>@month+1,:year=>@year,:value=>'s') }) do |d| 
+cell_text = "#{d.mday}" 
+cell_attrs = {:class => 'day'} 
+ 
+  @days_events = []
+ 
+  
+@events.each do |e| 
+  @specialday_day = d.day
+        if e.event_date.day == d.day && e.event_date.year == d.year && e.event_date.month == d.month 
+          @days_events << e
+          cell_text = render :partial => "specialday"
+          cell_attrs[:class] = 'specialDay' 
+        end 
+  end
+  
+  @friends_events.each do |frnd|
+    frnd.each do |f|
+       @specialday_day = d.day
+          if f.event_date.day == d.day && f.event_date.year == d.year && f.event_date.month == d.month 
+            @days_events << f
+            cell_text = render :partial => "specialday"
+            cell_attrs[:class] = 'specialDay' 
+          end 
+    end
+  end
+
+[cell_text, cell_attrs] 
+end 
+%> 
+
+</div>
+
+<p class="edit_link">
+  <%= link_to 'Add a new event', new_event_path %> 
+ <%= will_paginate @pages %>
+</p>
+<%= render :partial => "event", :collection => @events %>

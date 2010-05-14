@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/rails_space/!svn/ver/4/trunk/script
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/rails_space/!svn/ver/4/trunk/script/runner
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/rails_space/!svn/ver/4/trunk/script/server
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/rails_space/!svn/ver/4/trunk/script/plugin
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/rails_space/!svn/ver/4/trunk/script/generate
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/rails_space/!svn/ver/4/trunk/script/console
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/rails_space/!svn/ver/4/trunk/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/rails_space/!svn/ver/4/trunk/script/destroy
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/rails_space/!svn/ver/4/trunk/script/about
+END

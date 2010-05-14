@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib
+END
+local_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/local_index.rb
+END
+acts_as_ferret.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/acts_as_ferret.rb
+END
+more_like_this.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/more_like_this.rb
+END
+unix_daemon.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/unix_daemon.rb
+END
+remote_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/remote_index.rb
+END
+shared_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/shared_index.rb
+END
+ferret_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/ferret_server.rb
+END
+index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/index.rb
+END
+bulk_indexer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/bulk_indexer.rb
+END
+server_manager.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/server_manager.rb
+END
+ferret_cap_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/ferret_cap_tasks.rb
+END
+ferret_result.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/ferret_result.rb
+END
+multi_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/multi_index.rb
+END
+class_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/class_methods.rb
+END
+instance_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/instance_methods.rb
+END
+act_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/act_methods.rb
+END
+ferret_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/ferret_extensions.rb
+END
+shared_index_class_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/shared_index_class_methods.rb
+END
+search_results.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/rails_space/!svn/ver/4/trunk/vendor/plugins/acts_as_ferret/lib/search_results.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/rails_space/!svn/ver/4/trunk/script/performance
+END
+profiler
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/rails_space/!svn/ver/4/trunk/script/performance/profiler
+END
+benchmarker
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/rails_space/!svn/ver/4/trunk/script/performance/benchmarker
+END
+request
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/rails_space/!svn/ver/4/trunk/script/performance/request
+END

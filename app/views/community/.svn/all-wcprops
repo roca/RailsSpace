@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/rails_space/!svn/ver/15/trunk/app/views/community
+END
+_result_summary.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/rails_space/!svn/ver/4/trunk/app/views/community/_result_summary.rhtml
+END
+browse.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rails_space/!svn/ver/4/trunk/app/views/community/browse.html.erb
+END
+search.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/rails_space/!svn/ver/4/trunk/app/views/community/search.html.erb
+END
+_user_table.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rails_space/!svn/ver/15/trunk/app/views/community/_user_table.rhtml
+END
+_browse_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rails_space/!svn/ver/4/trunk/app/views/community/_browse_form.rhtml
+END
+_search_form.rhtml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/rails_space/!svn/ver/4/trunk/app/views/community/_search_form.rhtml
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/rails_space/!svn/ver/4/trunk/app/views/community/index.html.erb
+END

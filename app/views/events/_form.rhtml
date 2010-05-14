@@ -1,0 +1,13 @@
+<%= error_messages_for :event %>
+
+<%= text_field_for form, "title", 60 %>
+<div class="form_row">
+  <label for="description">Description:</label>
+  <%= form.text_area :description, :rows => 20, :cols => 60 %>
+ <br/>
+  <%= form.label :event_date %>
+    <%= form.datetime_select :event_date %>
+  <br/>
+    <%= form.label :public %>
+    <%= form.check_box :public %>
+</div>
